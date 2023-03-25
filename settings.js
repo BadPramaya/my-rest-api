@@ -1,9 +1,9 @@
 const fs = require('fs')
 
-global.creator = 'Zeeoneofc'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.creator = 'mr.big mouse'// yourname
+global.MONGO_DB_URI = "mongodb://ujape5ibkuh1dqte0prf:YnK0l5g4mHjic4tXMY2G@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/b7dsuiulxefnogs?replicaSet=rs0" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
+global.your_email = "mrpramaya2003@gmail.com" //email
 global.email_password = "" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
